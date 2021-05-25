@@ -47,7 +47,7 @@
 ;; Layer toggled with capslock:
 (deflayer vi 
   esc     f1      f2      f3      @f4     f5      f6      f7      f8      f9      f10     brdn    brup    print     ins    del
-  `       1       2       3       4       5       6       7       8       9       0       -       =       del
+  `       f1      f2      f3      f4      f5      f6      f7      f8      f9      f10     f11     f12     del
   tab     q       w       e       r       t       home    pgdn    pgup    end     p       [       ]       \
   -       a       vold    volu    mute    g       left    down    up      rght    ins     '       ret
   lsft    z       x       c       v       b       n       m       ,       .       /       rsft
